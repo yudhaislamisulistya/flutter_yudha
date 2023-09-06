@@ -25,13 +25,11 @@ In this comprehensive course, you will learn the essential skills and concepts t
 ### MINGGU KE-4
 - [ ] Installation, Command Line Interface, and Package Management in Flutter
 - [ ] Platform Widget
-- [ ] Professional Skill 1 – Communication Skill
 
 ### MINGGU KE-5
 - [ ] Flutter Layout
 - [ ] Flutter Form (Form Input Button)
 - [ ] Advanced Form in Flutter
-- [ ] Code Competence KM Flutter 1
 
 ### MINGGU KE-6
 - [ ] Assets
@@ -43,7 +41,6 @@ In this comprehensive course, you will learn the essential skills and concepts t
 - [ ] Flutter State Management (BLoC)
 - [ ] Storage
 - [ ] Professional Skill 2 – Building Resume and CV
-- [ ] Code Competence KM Flutter 2
 
 ### MINGGU KE-8
 - [ ] Introduction to REST API – JSON Serialization/Deserialization
@@ -53,8 +50,6 @@ In this comprehensive course, you will learn the essential skills and concepts t
 - [ ] UI Testing
 - [ ] Introduction to AI & OpenAI in Flutter
 - [ ] Implementing OpenAI in Flutter
-- [ ] Professional Skill 3 – Teamwork and Collaboration
-- [ ] Professional Skill 4 – Time and Task Management
 
 ## Getting Started
 
