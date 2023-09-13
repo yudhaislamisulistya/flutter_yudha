@@ -27,7 +27,7 @@ In this comprehensive course, you will learn the essential skills and concepts t
 - [ ] Platform Widget
 
 ### MINGGU KE-5
-- [ ] Flutter Layout
+- [x] Flutter Layout
 - [ ] Flutter Form (Form Input Button)
 - [ ] Advanced Form in Flutter
 
