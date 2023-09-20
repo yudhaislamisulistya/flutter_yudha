@@ -32,8 +32,8 @@ In this comprehensive course, you will learn the essential skills and concepts t
 - [x] Advanced Form in Flutter
 
 ### MINGGU KE-6
-- [ ] Assets
-- [ ] Dialog Bottom Sheet
+- [x] Assets
+- [x] Dialog Bottom Sheet
 - [ ] Flutter Navigation
 
 ### MINGGU KE-7
