@@ -34,10 +34,10 @@ In this comprehensive course, you will learn the essential skills and concepts t
 ### MINGGU KE-6
 - [x] Assets
 - [x] Dialog Bottom Sheet
-- [ ] Flutter Navigation
+- [x] Flutter Navigation
 
 ### MINGGU KE-7
-- [ ] Flutter State Management (Provider)
+- [x] Flutter State Management (Provider)
 - [ ] Flutter State Management (BLoC)
 - [ ] Storage
 - [ ] Professional Skill 2 – Building Resume and CV
