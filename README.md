@@ -38,7 +38,7 @@ In this comprehensive course, you will learn the essential skills and concepts t
 
 ### MINGGU KE-7
 - [x] Flutter State Management (Provider)
-- [ ] Flutter State Management (BLoC)
+- [x] Flutter State Management (BLoC)
 - [ ] Storage
 - [ ] Professional Skill 2 – Building Resume and CV
 
