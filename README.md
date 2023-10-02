@@ -43,7 +43,7 @@ In this comprehensive course, you will learn the essential skills and concepts t
 - [ ] Professional Skill 2 – Building Resume and CV
 
 ### MINGGU KE-8
-- [ ] Introduction to REST API – JSON Serialization/Deserialization
+- [x] Introduction to REST API – JSON Serialization/Deserialization
 - [ ] MVVM Architecture
 
 ### MINGGU KE-9
