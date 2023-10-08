@@ -44,7 +44,7 @@ In this comprehensive course, you will learn the essential skills and concepts t
 
 ### MINGGU KE-8
 - [x] Introduction to REST API – JSON Serialization/Deserialization
-- [ ] MVVM Architecture
+- [x] MVVM Architecture
 
 ### MINGGU KE-9
 - [ ] UI Testing
