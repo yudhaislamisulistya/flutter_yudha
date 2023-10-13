@@ -23,8 +23,8 @@ In this comprehensive course, you will learn the essential skills and concepts t
 - [x] Introduction to Flutter Widget
 
 ### MINGGU KE-4
-- [ ] Installation, Command Line Interface, and Package Management in Flutter
-- [ ] Platform Widget
+- [x] Installation, Command Line Interface, and Package Management in Flutter
+- [x] Platform Widget
 
 ### MINGGU KE-5
 - [x] Flutter Layout
@@ -40,16 +40,16 @@ In this comprehensive course, you will learn the essential skills and concepts t
 - [x] Flutter State Management (Provider)
 - [x] Flutter State Management (BLoC)
 - [x] Storage
-- [ ] Professional Skill 2 – Building Resume and CV
+- [x] Professional Skill 2 – Building Resume and CV
 
 ### MINGGU KE-8
 - [x] Introduction to REST API – JSON Serialization/Deserialization
 - [x] MVVM Architecture
 
 ### MINGGU KE-9
-- [ ] UI Testing
-- [ ] Introduction to AI & OpenAI in Flutter
-- [ ] Implementing OpenAI in Flutter
+- [x] UI Testing
+- [x] Introduction to AI & OpenAI in Flutter
+- [x] Implementing OpenAI in Flutter
 
 ## Getting Started
 
